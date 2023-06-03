@@ -9,10 +9,6 @@
                             <loc>https://hdwatts.com/about</loc>
                         </url>
                     
-                        <url>
-                            <loc>https://hdwatts.com/blog</loc>
-                        </url>
-                    
 							
                         <url>
                             <loc>https://hdwatts.com/blog/docker-node-vscode-intellisense</loc>
