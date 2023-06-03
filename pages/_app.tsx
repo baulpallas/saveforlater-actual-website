@@ -79,13 +79,13 @@ const App: React.FC = ({ Component, pageProps }: any) => (
 		</Head>
 		<DefaultSeo
 			titleTemplate='%s | save for later'
-			description="Heya! I'm Howard Dean Watts! Welcome to my website!"
+			description="save for later's website"
 			openGraph={{
 				type: 'website',
 				locale: 'en_IE',
 				// url: 'https://www.hdwatts.com',
-				site_name: 'HDWatts',
-				title: 'Welcome',
+				site_name: 'save for later',
+				title: 'save for later',
 				images: [
 					{
 						url: `https://hdwatts.com${MetaImg.src}`,
